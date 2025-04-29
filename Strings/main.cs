@@ -1,6 +1,14 @@
 using System;
-using IS;
-using StringCompair;
+namespace ImportingFiles
+{
+    using IS;
+    using StringCompair;
+    using StrComp;
+    using CompairEquals;
+    using IndexFunction;
+    using AditionalMethodsFunction ;
+    using StringManipulation_Program;
+}
 
 namespace MainProgram
 
@@ -12,7 +20,11 @@ namespace MainProgram
         static void Main(string[] args)
 
         {
-            StringCompair.Compapair.CompareString("Tiago", "Tiago3");
+            //StrComp.Startswith.CompairStartsWith("João", "João");
+            //CompairEquals.Equals.CompairEquals("Tiago","João");
+            //IndexFunction.IndexOf.FindIndexOf("Tiago", "T");
+            //AditionalMethodsFunction.AddMeth.UsingAddMethods("Tiago");
+            StringManipulation_Program.String_Manipulation.Manipulacao();
         }
 
     }
