@@ -1,0 +1,15 @@
+c:\Users\User\Desktop\C#\CSharp\Dates\bin\Debug\net9.0\Dates.exe
+C:\Users\User\Desktop\C#\CSharp\Dates\bin\Debug\net9.0\Dates.deps.json
+C:\Users\User\Desktop\C#\CSharp\Dates\bin\Debug\net9.0\Dates.runtimeconfig.json
+c:\Users\User\Desktop\C#\CSharp\Dates\bin\Debug\net9.0\Dates.dll
+c:\Users\User\Desktop\C#\CSharp\Dates\bin\Debug\net9.0\Dates.pdb
+c:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\Dates.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\Dates.AssemblyInfo.cs
+c:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\Dates.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\Dates.sourcelink.json
+c:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\Dates.dll
+c:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\refint\Dates.dll
+c:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\Dates.pdb
+C:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\Dates.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\CSharp\Dates\obj\Debug\net9.0\ref\Dates.dll
