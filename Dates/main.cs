@@ -1,6 +1,8 @@
 using System;
 using System.Runtime.InteropServices;
 using AddValuesProgram;
+using TimezoneProgram;
+using TimespanProgram;
 
 namespace Imports
 {
@@ -24,7 +26,9 @@ namespace Date
             //DateFormatingFunction.DateFormating.FormatDate();
             //FormatingStandards.FormatStandard.FormatFormatStandard();
             //AddValuesProgram.AddValues.AddValuesFunction();
-            DateComparingProgram.DateComparing.CompareDates();
+            //DateComparingProgram.DateComparing.CompareDates();
+            //TimezoneProgram.Timezone.TimezoneFunction();
+            TimespanProgram.Timespan.TimespanCalculator();
 
         }
 
